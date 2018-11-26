@@ -1,0 +1,11 @@
+{
+  "name": "jsplayground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "multi": "node multi.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
